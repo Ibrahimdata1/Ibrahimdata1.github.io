@@ -144,5 +144,8 @@ body {
     opacity: 1;
   }
 }
+.carousel_xs {
+  max-height: 260px;
+}
 
 /*# sourceMappingURL=main.css.map */
